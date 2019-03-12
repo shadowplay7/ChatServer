@@ -1,2 +1,2 @@
 # ChatServer
-Chat Server project created using this tutorial -> https://www.youtube.com/channel/UC5Lxe7GAsk_f8qMBsNmlOJg
+Chat Server project created using this tutorial -> C++ Winsock Tutorial from Jpres YouTube channel - https://www.youtube.com/watch?v=AjG4jcVn6QE
